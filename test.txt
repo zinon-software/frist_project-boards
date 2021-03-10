@@ -1,0 +1,6 @@
+FBV    --Functional Based Views--     def
+CBV    --Class Based Views--          class View             /oop
+GCBV   --Generic Class Based Views--  class CreateView      /oop
+
+رابط شرح هذخ الخصائص
+ccbv.co.uk
